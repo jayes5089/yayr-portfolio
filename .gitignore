@@ -6,6 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+project_summary.txt
+txtgen.py
 
 node_modules
 dist
